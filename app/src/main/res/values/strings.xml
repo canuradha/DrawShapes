@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DrawShapes</string>
+    <string name="Line">Line</string>
+    <string name="Triangle">Triangle</string>
+    <string name="Rectangle">Rectangle</string>
+    <string name="Circle">Circle</string>
+    <string name="undo">Undo</string>
+    <string name="frehand">Free Hand</string>
+    <string name="clear">Clear</string>
+    <string name="start">START DRAWING</string>
+    <string name="title">DRAW SHAPES</string>
+    <string name="subtitle">by Group 09</string>
+</resources>

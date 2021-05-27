@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/Undo"
+        android:title="@string/undo"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/clear"
+        android:title="@string/clear"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/freeHand"
+        android:title="@string/frehand"
+        app:showAsAction="never"/>
+    <item android:id="@+id/line"
+        android:title="@string/Line"
+        app:showAsAction="never"/>
+    <item android:id="@+id/triangle"
+        android:title="@string/Triangle"
+        app:showAsAction="never"/>
+    <item android:id="@+id/rectangle"
+        android:title="@string/Rectangle"
+        app:showAsAction="never"/>
+    <item android:id="@+id/circle"
+        android:title="@string/Circle"
+        app:showAsAction="never"/>
+
+</menu>
